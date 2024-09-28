@@ -1,4 +1,4 @@
-# ML-Project-on-Resistance-Prediction
+# Drug Resistance Prediction
 
 ## Project Goal
 
