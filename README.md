@@ -16,9 +16,10 @@ On the UI, we have the option to upload a file from our computer or enter a link
 
 ### Links
 
-- Project Interface:
-- GitHub Repository: https://github.com/profgreatwonder/resistance-prediction
-- Documentation: https://github.com/profgreatwonder/resistance-prediction#README
+- Project Interface: https://ml-project-on-resistance-prediction-nywjx4j3anyh9yzmc7fyer.streamlit.app/
+- GitHub Repository: https://github.com/Mercy-Chenwumi/ML-Project-on-Resistance-Prediction
+- Documentation: https://github.com/Mercy-Chenwumi/ML-Project-on-Resistance-Prediction/#README
+
 
 ### Folders and Files
 
